@@ -1,1 +1,0 @@
-“Nếu trình duyệt đã có cache của trang web từ lần truy cập trước, tại sao khi tôi reload trang, nhiều request vẫn được gửi lên server thay vì đọc hoàn toàn từ cache?”
