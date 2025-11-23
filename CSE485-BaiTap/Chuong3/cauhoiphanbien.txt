@@ -1,0 +1,1 @@
+"Nếu một người dùng mở nhiều tab trình duyệt cùng lúc và đăng nhập trên mỗi tab, liệu việc lưu tên đăng nhập trong $_SESSION có đảm bảo trạng thái đăng nhập đồng nhất giữa các tab không? Tại sao?"
