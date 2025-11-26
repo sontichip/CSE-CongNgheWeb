@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Hoa d\u1ea1 y\u1ebfn th\u1ea3o ",
+        "desc": "D\u1ea1 y\u1ebfn th\u1ea3o l\u00e0 l\u1ef1a ch\u1ecdn tuy\u1ec7t v\u1eddi \u0111\u1ec3 trang tr\u00ed nh\u00e0 c\u1eeda, nh\u1edd kh\u1ea3 n\u0103ng ra hoa r\u1ef1c r\u1ee1 quanh n\u0103m, k\u1ec3 c\u1ea3 khi th\u1eddi ti\u1ebft l\u1ea1nh hay n\u1eafng n\u00f3ng. V\u1edbi d\u00e1ng hoa m\u1ec1m m\u1ea1i v\u00e0 m\u00e0u s\u1eafc \u0111a d\u1ea1ng, d\u1ea1 y\u1ebfn th\u1ea3o th\u01b0\u1eddng \u0111\u01b0\u1ee3c tr\u1ed3ng trong c\u00e1c ch\u1eadu treo t\u1ea1i c\u1eeda s\u1ed5 ho\u1eb7c ban c\u00f4ng, mang l\u1ea1i v\u1ebb \u0111\u1eb9p l\u00e3ng m\u1ea1n v\u00e0 cu\u1ed1n h\u00fat cho m\u1ecdi kh\u00f4ng gian.",
+        "img": "images\/hoa1.webp"
+    },
+    {
+        "name": "Hoa \u0111\u1ed3ng ti\u1ec1n",
+        "desc": "Hoa \u0111\u1ed3ng ti\u1ec1n l\u00e0 l\u1ef1a ch\u1ecdn tuy\u1ec7t v\u1eddi cho m\u00f9a xu\u00e2n v\u00e0 \u0111\u1ea7u h\u00e8, khi n\u1eafng ch\u01b0a qu\u00e1 g\u1eaft. C\u00e2y d\u1ec5 tr\u1ed3ng, d\u1ec5 ch\u0103m s\u00f3c v\u1edbi hoa to, n\u1edf r\u1ed9, r\u1ef1c r\u1ee1.  Lo\u00e0i hoa n\u00e0y c\u00f2n mang \u00fd ngh\u0129a \u0111\u1eb9p v\u1ec1 s\u1ef1 sung t\u00fac, t\u00ecnh y\u00eau v\u00e0 h\u1ea1nh ph\u00fac vi\u00ean m\u00e3n. R\u1ea5t th\u00edch h\u1ee3p \u0111\u1ec3 l\u00e0m \u0111\u1eb9p nh\u00e0 b\u1ea1n trong ti\u1ebft tr\u1eddi n\u00e0y.",
+        "img": "images\/hoa2.webp"
+    },
+    {
+        "name": "Hoa gi\u1ea5y",
+        "desc": "Hoa gi\u1ea5y l\u00e0 lo\u00e0i hoa ph\u1ed5 bi\u1ebfn, c\u1ef1c k\u1ef3 d\u1ec5 tr\u1ed3ng v\u00e0 h\u1ea7u nh\u01b0 kh\u00f4ng c\u1ea7n ch\u0103m s\u00f3c \u0111\u1eb7c bi\u1ec7t.  Hoa tuy m\u1ecfng manh nh\u01b0ng r\u1ea5t l\u00e2u t\u00e0n, c\u00f3 nhi\u1ec1u m\u00e0u s\u1eafc \u0111\u1eb9p nh\u01b0 tr\u1eafng, \u0111\u1ecf, h\u1ed3ng, t\u00edm... Ngay c\u1ea3 trong m\u00f9a kh\u00f4, hoa v\u1eabn n\u1edf r\u1ef1c r\u1ee1, gi\u00fap ng\u00f4i nh\u00e0 b\u1ea1n lu\u00f4n b\u1eebng s\u00e1ng v\u00e0 cu\u1ed1n h\u00fat.",
+        "img": "images\/hoa3.webp"
+    },
+    {
+        "name": "Hoa thanh t\u00fa",
+        "desc": "Hoa thanh t\u00fa v\u1edbi s\u1eafc xanh thi\u00ean thanh d\u1ecbu d\u00e0ng mang l\u1ea1i c\u1ea3m gi\u00e1c nh\u1eb9 nh\u00e0ng, tao nh\u00e3.  C\u00e2y r\u1ea5t d\u1ec5 tr\u1ed3ng, ph\u00e1t tri\u1ec3n sum su\u00ea v\u00e0 n\u1edf nhi\u1ec1u hoa c\u00f9ng l\u00fac. Thanh t\u00fa \u01b0a n\u1eafng, n\u00ean c\u1ef1c k\u1ef3 th\u00edch h\u1ee3p tr\u1ed3ng v\u00e0o m\u00f9a xu\u00e2n v\u00e0 m\u00f9a h\u00e8, gi\u00fap l\u00e0m d\u1ecbu m\u00e1t kh\u00f4ng gian ng\u00f4i nh\u00e0 b\u1ea1n.",
+        "img": "images\/hoa4.webp"
+    },
+    {
+        "name": "Hoa c\u1ea9m ch\u01b0\u1edbng",
+        "desc": "Hoa c\u1ea9m ch\u01b0\u1edbng th\u00edch h\u1ee3p tr\u1ed3ng v\u00e0o d\u1ecbp xu\u00e2n - h\u00e8, c\u00f3 th\u1ec3 k\u00e9o d\u00e0i \u0111\u1ebfn m\u00f9a \u0111\u00f4ng n\u1ebfu tr\u1eddi kh\u00f4ng qu\u00e1 l\u1ea1nh.  Hoa c\u00f3 th\u00e2n m\u1ea3nh, m\u00e0u s\u1eafc \u0111a d\u1ea1ng (h\u1ed3ng, \u0111\u1ecf, v\u00e0ng, t\u00edm...) v\u00e0 th\u01b0\u1eddng c\u00f3 vi\u1ec1n m\u00e0u r\u1ea5t xinh x\u1eafn. Ch\u1ec9 c\u1ea7n \u0111\u1eb7t m\u1ed9t ch\u1eadu c\u1ea9m ch\u01b0\u1edbng tr\u00ean b\u00e0n l\u00e0 \u0111\u1ee7 \u0111\u1ec3 l\u00e0m b\u1eebng s\u00e1ng kh\u00f4ng gian ph\u00f2ng c\u1ee7a b\u1ea1n.",
+        "img": "images\/hoa5.webp"
+    }
+]
