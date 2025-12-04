@@ -1,0 +1,1 @@
+"Tại sao trong PDO, việc sử dụng Prepared Statement không chỉ giúp chống SQL Injection mà còn giúp tăng hiệu năng khi thực hiện nhiều truy vấn giống nhau? Giải thích cơ chế mà PDO tái sử dụng kế hoạch (query plan) của câu lệnh đã prepare."
