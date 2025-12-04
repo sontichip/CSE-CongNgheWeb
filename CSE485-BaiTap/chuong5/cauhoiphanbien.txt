@@ -1,0 +1,1 @@
+"Tại sao trong mô hình MVC, Controller không nên thực hiện truy vấn SQL trực tiếp, mà phải thông qua Model? Việc tách truy vấn ra Model mang lại lợi ích gì về mặt bảo trì và tái sử dụng mã?"
